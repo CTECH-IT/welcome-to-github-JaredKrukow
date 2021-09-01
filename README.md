@@ -2,7 +2,7 @@
 # Welcome-to-GitHub
 First repository for new users
 
-Please enter your name:Jared Krukow
+Please enter your name:Jared Krukow is awesome!
 
 Please enter your favorite color:Red
 
